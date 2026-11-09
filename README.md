@@ -2,7 +2,7 @@
 
 Étude de cas de test logiciel menée dans le cadre d’un projet de formation OpenClassrooms. Le travail couvre la préparation d’un cahier de recette, l’exécution de tests fonctionnels et exploratoires, la consignation d’anomalies et la rédaction d’un bilan de campagne.
 
-> Projet de formation réalisé individuellement. La campagne s’est conclue par une recommandation **NO GO** au regard des anomalies observées.
+> Projet de formation validé le 14 août 2026. La campagne s’est conclue par une recommandation **NO GO** au regard des anomalies observées.
 
 ## Contexte
 
